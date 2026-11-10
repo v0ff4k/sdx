@@ -1,0 +1,25 @@
+{
+  "name": "v0ff4k/sdx",
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Vladimir"
+    }
+  ],
+  "type": "project",
+  "description": "Sypex Dumper2 (improved) for php both 8.2/7.1 versions",
+  "prefer-stable": true,
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.1.* || ^8.2.*  || ^7.2.* || ^7.3.* || ^7.4.* || ^8.1.*",
+    "ext-bcmath": "*",
+    "ext-curl": "*",
+    "ext-fileinfo": "*",
+    "ext-intl": "*",
+    "ext-json": "*",
+    "ext-openssl": "*",
+    "ext-pdo": "*",
+    "ext-xml": "*",
+    "ext-zip": "*"
+  }
+}

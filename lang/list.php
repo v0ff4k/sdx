@@ -1,7 +1,7 @@
 <?php
-$langs = array (
-  'en' => 'English',
-  'ru' => 'Русский',
-  'uk' => 'Українська',
+$langs = array(
+    'en' => 'English',
+    'ru' => 'Русский',
+    'uk' => 'Українська',
 );
 ?>

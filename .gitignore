@@ -1,0 +1,29 @@
+# IDE
+/.idea/
+/nbproject/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sublime-project
+*.sublime-workspace
+/*.md
+mandatory_senior_checklist.md
+MISSING_FEATURES_CHECKLIST.md
+PROJECT_STATUS.md
+PROJECT_MEMORY.md
+SENIOR_LEVEL_AUDIT.md
+!README.md
+!TODO.md
+!INSTALL.md
+.*/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# kind logs
+*.log
+.zip
+*.sql.gz
