@@ -7,5 +7,3 @@
 Установить chmod 666 или 777 для файлов `cfg.php` и `ses.php`
 
 После чего открыть url вида http://mysite.net/sdx/, вводите логин и пароль от cnf.php или от mysql.
-
-О ошибках и багах пишите в форум http://sypex.net/forum/ с указанием версий броузера, php и mysql
